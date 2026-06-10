@@ -1,0 +1,6 @@
+{
+  "name": "John Oquendo Portfolio",
+  "description": "An elegant, responsive, and minimalist gallery website for New York-based abstract artist and photographer John Oquendo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
