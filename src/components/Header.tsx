@@ -26,9 +26,6 @@ export default function Header({ activeSection, setActiveSection, inquiryCount }
           <h1 className="font-serif text-xl sm:text-2xl tracking-[0.25em] text-[#1C1C1C] transition-colors duration-300 group-hover:text-amber-800">
             JOHN OQUENDO
           </h1>
-          <p className="font-mono text-[9px] tracking-[0.4em] uppercase text-neutral-500 mt-1">
-            Abstract Painting & Silver Gelatin Photography &bull; New York
-          </p>
         </div>
 
         {/* Minimalist Navigation */}
